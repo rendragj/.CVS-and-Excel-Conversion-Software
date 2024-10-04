@@ -1,0 +1,6 @@
+This is a test file to test adding code
+
+CREATE TABLE [dbo].[Table1]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
