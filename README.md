@@ -1,6 +1,6 @@
 # .CVS-and-Excel-Conversion-Software
 
-Company background: A local company has a machine that recieves their products and produces a data file the inventory items it recieves. The populated list is then required to be uploaded to their online store. Issues with the formats and structure are to be corrected. At present before the software was implemented. The restrucure of the files had to be done by employee's. 
+Company background: A local company has a machine that recieves their products and produces a data file the inventory items it recieves. The populated list is then required to be uploaded to their online store. Issues with the formats and structure are to be corrected. At present before the software was implemented. The restrucure of the files had to be done by employee's. This company name is THe HUB TCG located in Gilroy CA.
 
 This is a software program that was created for a local shop with the intention to transform the data output recieved by an inventoring machine that then produces a .csv file format with unstructed data from the inventory items recieved. 
 
